@@ -92,7 +92,7 @@ Upon project completion, a comprehensive **Exploratory Data Analysis (EDA) repor
    - Analysis of the impact of currency exchange rates on sales.
    - Visualizations that communicate key findings clearly and effectively using Power BI/Tableau.
    - **Actionable recommendations** to enhance marketing strategies, optimize inventory, improve sales forecasting, guide product development, and inform store expansion and operational decisions.
-
+https://github.com/Siva24081994/DATA_SPARK_GE/blob/main/Screen%20Recording%202024-11-14%20at%204.37.07%20PM.mov
 ---
 
 ## Technologies Used
